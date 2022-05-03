@@ -1,0 +1,58 @@
+.navbar{
+    background-color: blueviolet !important;
+    color: white !important;
+    padding: 2rem !important;
+    font-size: 2rem;
+}
+
+.navbar a{
+    color: white !important;
+}
+
+button{
+    background-color: white;
+    color: blueviolet;
+}
+
+button a{
+    background-color: white;
+    color: blueviolet;
+}
+
+img{
+    border: 2px solid black;
+    height: auto;
+   
+}
+
+.productCard{
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+
+}
+
+.productCard button{
+    width: 100%;
+    background-color: blueviolet;
+    color: white;
+}
+
+section{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+footer{
+    background-color: blueviolet;
+    color: white;
+    padding: 2rem;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+h2{
+    padding: 10px;
+}
